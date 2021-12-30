@@ -8,14 +8,14 @@ Wir sprechen also über ungefähr 45 Jahre.
 
 Wenn man davon ausgeht, dass unser derzeitiges Wirtschaftssystem die nächsten 45 Jahre noch bestand hat, stellt sich die Frage:
 
-## Wieviel Geld wird benötigt?
+## Wie viel Geld wird benötigt?
 
 Wenn einem zum Schluss die finanzielle Puste ausgeht, hat man ein Problem, 
 da man nicht mehr so einfach dazu in der Lage ist sein Konto wieder aufzufüllen.
 
-Wenn man zu viel Vermögen aufgebaut hat, hat man wohlmöglich zu viel Zeit gegen Geld eingetauscht. 
+Wenn man zu viel Vermögen aufgebaut hat, hat man wohl möglich zu viel Zeit gegen Geld eingetauscht. 
 
-Die Punktlandung währe wohl eine `Schwarze Null`.
+Die Punktlandung wäre wohl eine `Schwarze Null`.
 
 Das heißt nicht, dass man seinen Lieben nichts hinterlassen will.
 Man sollte zu Lebzeiten sein finanzielles Erbe `aktiv` weitergeben.
@@ -32,7 +32,7 @@ Sicherlich sehr individuell, daher hier nur eine Anregung.
   * Steuern / Versicherungen
   * Kindersitz
 * Ferienwohnung
-* Expeditionsfahrzeug (währe irgendwie cool)
+* Expeditionsfahrzeug (wäre irgendwie cool)
 * Man gönnt sich eine Amazon Prime / Netflix / was auch immer Mitgliedschaft
 * Das Kind braucht eine Zahnspange
 * Nebenkostenabrechungen
@@ -55,7 +55,7 @@ Sicherlich sehr individuell, daher hier nur eine Anregung.
 * Küche
 * ...
 
-## Nicht alle finanziellen Ereignisse sind vorhersehbahr.
+## Nicht alle finanziellen Ereignisse sind vorhersehbar.
 
 * Ein Auto kostet ein mal viel, und hält Jahre.
 * Ein Mobiltelefon muss man vielleicht nach drei Jahren erneuern.
@@ -69,10 +69,10 @@ Ich starte zunächst mit einem einfachen `python client` und einer `PostgreSQL` 
 
 Mit einem `CSV Export` der eigenen Kontobewegungen kann man gut beginnen.
 
-Man sieht wieviel Geld in einem Monat reinkommt, und wieviel rausgeht. 
+Man sieht wie viel Geld in einem Monat reinkommt, und wie viel raus geht. 
 Kosten können nach Themen gruppiert werden.
-Dammit man auch jährliche Zahlungen einfangen kann, sollte der Export so umfangreich wie möglich sein.
+Damit man auch jährliche Zahlungen einfangen kann, sollte der Export so umfangreich wie möglich sein.
 
-* Alle Kosten auf `Monate` herunterbrechen, damit man sieht, wie hoch das Sparpotential ist.
-* Für jeden eintrag sollte man sich fragen, ob man es wirklich braucht.
+* Alle Kosten auf `Monate` herunter brechen, damit man sieht, wie hoch das Sparpotential ist.
+* Für jeden Eintrag sollte man sich fragen, ob man es wirklich braucht.
 
