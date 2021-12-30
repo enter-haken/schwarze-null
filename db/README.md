@@ -1,4 +1,4 @@
-# m database
+# Schwarze Null database
 
 ![schema][1]
 
