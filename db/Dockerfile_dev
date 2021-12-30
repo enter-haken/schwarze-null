@@ -1,0 +1,7 @@
+# this is for dev only
+
+FROM postgres:14.1
+ENV POSTGRES_PASSWORD=postgres
+ENV POSTGRES_DB=schwarze_null_dev
+
+COPY init/ /docker-entrypoint-initdb.d/
