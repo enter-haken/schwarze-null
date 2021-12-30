@@ -27,7 +27,7 @@ stop:
 
 .PHONY: clean 
 clean: 
-	for container in $$(docker ps -a -f name=m --format="{{.ID}}"); do \
+	for container in $$(docker ps -a -f name=schwarze_null_postgres_${env} --format="{{.ID}}"); do \
 		docker stop $$container || true; \
 		docker rm $$container || true; \
 	done
